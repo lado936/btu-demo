@@ -1,1 +1,1 @@
-# btu-demo
+# Terraform demo for BTU
